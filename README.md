@@ -1,6 +1,6 @@
-# DEUS Logistics API
+# A Logistics API
 
-A RESTful API for managing a logistics company that ships cargo via vessels.
+A RESTful API built with FastAPI for managing a logistics company that ships cargo via vessels.
 
 ---
 
