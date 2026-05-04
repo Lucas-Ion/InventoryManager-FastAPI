@@ -20,7 +20,7 @@ A RESTful API built with FastAPI for managing a logistics company that ships car
 
 ## Overview
 
-For this takehome the API imagines what would be needed to allows a logistics company to manage the full lifecycle of a shipment. This goes from creating a client and signing a contract, to assigning cargo to a vessel and tracking its movement through to delivery.
+This API imagines what would be needed to allows a logistics company to manage the full lifecycle of a shipment. This goes from creating a client and signing a contract, to assigning cargo to a vessel and tracking its movement through to delivery.
 
 The core pieces are:
 
