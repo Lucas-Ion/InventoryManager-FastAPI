@@ -42,8 +42,8 @@ The core pieces are:
 Clone the repository:
 
 ```
-git clone https://github.com/Lucas-Ion/DEUS-TakeHome.git
-cd DEUS-TakeHome
+git clone github.com/Lucas-Ion/InventoryManager-FastAPI
+cd InventoryManager-FastAPI
 ```
 Then run:
 
