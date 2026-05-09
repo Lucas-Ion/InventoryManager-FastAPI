@@ -31,9 +31,6 @@ The core pieces are:
 - **Tracking Events** - an immutable audit log of cargo movements and locations
 
 
-### To interact with the deployed API online, click [HERE!](https://deus-logistics-api.wonderfulmeadow-a48258d9.westeurope.azurecontainerapps.io/docs)
-
-
 ## Setup Instructions
 
 
